@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlecRGB
+- 👋 Hi, I’m Alec!
 - 👀 I’m interested in image processing and biomedical imaging
-- 🌱 I’m currently learning a lot 
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently working at Euro-Multitel as a research intern, for a deep-learning project
 - 📫 How to reach me: alec@reygrobellet.com | alec.reygrobellet22@imperial.ac.uk | acr22@ic.ac.uk
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a dog called "Imelle" which is the french way to pronounce "email"
